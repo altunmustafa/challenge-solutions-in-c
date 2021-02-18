@@ -14,7 +14,6 @@
  */
 
 #include <stdio.h>
-#include <stdlib.h>
 
 #define max(a,b) (((a) > (b)) ? (a) : (b))
 #define numberOfElements(array) (sizeof(array) / sizeof(array[0]))
